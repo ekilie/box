@@ -2,6 +2,8 @@ module github.com/ekilie/box
 
 go 1.27
 
+toolchain go1.27.4
+
 replace ganigeorgiev.com/pocketbase/pocketbase => github.com/ekilie/pocketone v0.0.0-20261123052634-aa51c685d802
 
 replace (
